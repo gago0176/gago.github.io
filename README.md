@@ -11,3 +11,4 @@ https://project-rainbowcrack.com/
 https://medium.com/@Kan1shka9/pentesterlab-php-include-and-post-exploitation-walkthrough-8a85bcfa7b1d
 
 https://www.surveygizmo.com/s3/5637780/Certified-Ethical-Hacker-Practice-Quiz-312-50-Quiz-50
+https://windsorwebdeveloper.com/kioptrix-2-walkthrough/
